@@ -1,0 +1,27 @@
+data:
+  vehicles:
+    production:
+      GCAM: 'inputs/data/vehicles/production/GCAM.xlsx'
+      HIST: 'inputs/data/vehicles/production/HIST.xlsx'
+    prices: 'inputs/data/vehicles/prices/HIST.xlsx'
+
+  minerals:
+    Li2CO3: 'inputs/data/minerals/Li2CO3.xlsx'
+
+  batteries:
+    NMC: 'inputs/data/batteries/chemistries/NMC.xlsx'
+    LFP: 'inputs/data/batteries/chemistries/LFP.xlsx'
+    market_shares: 'inputs/data/batteries/market_shares.xlsx'
+
+results:
+  vehicles:
+    production: 'results/vehicles/production.csv'
+    prices: 'results/vehicles/prices.csv'
+
+  minerals:
+    production: 'results/minerals/production.csv'
+    prices: 'results/minerals/prices.csv'
+
+  batteries:
+    production: 'results/batteries/production.csv'
+    prices: 'results/batteries/prices.csv'

@@ -1,0 +1,24 @@
+vehicles:
+  passenger_yearly_mileage: 10000 # km/year
+  freight_yearly_mileage: 100000 # km/year
+  passenger_occupancy_rate: 2 # passengers/vehicle
+  freight_occupancy_rate: 20 # tonnes/vehicle
+
+minerals:
+  Li2CO3: 
+    name: Lithium carbonate
+    content: 46842.10526315789 # ton/million vehicle (0.0089/0.19*1e6)
+    impact_on_battery_price: 0.05 # battery price increase when mineral price increases by 100%
+
+batteries:
+  capacity: 
+    Car: 75 # kWh
+    Mini Car: 50 # kWh
+    Light truck: 100 # kWh
+    Large Car and Truck: 100 # kWh
+    Bus: 200 # kWh
+    Heavy truck: 500 # kWh
+    Medium truck: 250 # kWh
+
+  c0_avg: 3.2568281216 # log coefficient c0
+  c1: -0.3433663454 # log coefficient c1

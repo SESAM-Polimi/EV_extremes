@@ -1,0 +1,12 @@
+﻿Source,Country,Type,Prod_t_2021,Prod_t_est_2022,Prod_notes,Reserves_t,Reserves_notes
+MCS2023,United States,"Mine production, lithium content",W,W,,1000000,Revised based on information from Government and industry sources.
+MCS2023,Argentina,"Mine production, lithium content",5970,6200,,2700000,Revised based on information from Government and industry sources.
+MCS2023,Australia,"Mine production, lithium content",55300,61000,,6200000,"Revised based on information from Government and industry sources. For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 3.8 million tons."
+MCS2023,Brazil,"Mine production, lithium content","1,700",2200,Production in 2021 is also estimated.,250000,Revised based on information from Government and industry sources.
+MCS2023,Canada,"Mine production, lithium content",0,500,,930000,Revised based on information from Government and industry sources.
+MCS2023,Chile,"Mine production, lithium content",28300,39000,,9300000,Revised based on information from Government and industry sources.
+MCS2023,China,"Mine production, lithium content","14,000",19000,Production in 2021 is also estimated.,2000000,Revised based on information from Government and industry sources.
+MCS2023,Portugal,"Mine production, lithium content",900,600,Production in 2021 is also estimated.,60000,
+MCS2023,Zimbabwe,"Mine production, lithium content",710,800,Production in 2021 is also estimated.,310000,Revised based on information from Government and industry sources.
+MCS2023,Other countries,"Mine production, lithium content",0,0,,3300000,"Other countries with reported reserves: Austria, Congo (Kinshasa), Czechia, Finland, Germany, Ghana, Mali, Mexico, Namibia, Serbia, and Spain. Revised based on information from Government and industry sources."
+MCS2023,"World total (rounded), excluding U.S. production","Mine production, lithium content",107000,130000,Excludes U.S. production.,26000000,
