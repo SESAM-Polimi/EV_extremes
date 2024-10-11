@@ -4,7 +4,9 @@
 This repository allows to perform an extensive analysis to estimate future EV prices based on projected EV sales.
 Such projections are provided by other models within the IAM COMPACT consortium (e.g. GCAM) differentiated in 3 scenarios:
 'High sales', 'Medium sales' and 'Low sales'
-  
+
+Link to the project website: https://www.iam-compact.eu
+
   
 - - -
 ### Model use
